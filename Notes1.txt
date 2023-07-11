@@ -4,7 +4,7 @@ Link :- https://www.youtube.com/playlist?list=PLsJrbQrdqmnzgPyboulJK9HQWxHHj-GdT
 ----------------------------------------------
 Section - Part 1 - Beginners
 
-- What is Value Investing
+- LESSON 1 : What is Value Investing
 * Objectives
 1 - Difference between value trading and value investing
 2 - Difference between asset and liability
@@ -54,7 +54,7 @@ more ane more assets.
 
 * Benjamin Graham created value investing.
 
-- Value a Small Business
+- LESSSON 2 : Value a Small Business
 * Objectives
 1. Describe a small business model
 2. How money flows through a small business
@@ -85,4 +85,31 @@ Business (hopefully add to Equity)
 100,000 -> 20%
 > Warren buffett likes to find companies that trade
 for less than 15 times the earnings.
+
+- LESSON 3 : Balance sheet & Margin of safety
+* Objectives
+1. Importance of balance sheet
+2. Determine equity of business
+3. Company's margin of safety
+4. Business value - comparison of net income and equity
+
+* Compnay's documents
+> Income Statement
+# Net Income/Earnings
+# Find company profit
+# Includes data : revenue, cost of revenue, 
+income before taxes, taxes and net income
+# Gives Return % per year
+> Balance sheet
+# Equity/Book Value
+# Determine margin of safety
+> Cash Flow statement
+
+* Balance Sheet
+> What would happen if business liquidated now
+> Equity = Total assets - total liability
+> Example
+Assets - AccountCash, IceCreamStand (10,000), IceCreamMachine, Supplies, Land
+Liabilities - Salary, IceCreamStand (loan-9,000), IceCreamMachine (loan), Land (loan)
+> Risk = Owner sell price of company - equity
 
