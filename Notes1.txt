@@ -2,7 +2,7 @@ Course :- Warren Buffet Stock Lessons
 Link :- https://www.youtube.com/playlist?list=PLsJrbQrdqmnzgPyboulJK9HQWxHHj-GdT
 
 ----------------------------------------------
-Section - Part 1 - Beginners
+Section - Part 1 - Beginners - Basics
 
 - LESSON 1 : What is Value Investing
 * Objectives
@@ -169,4 +169,52 @@ P/BV - 0.7 : Safety 143%
 > Select P/BV <= 1.5
 > If P/E * P/BV <= 22.5, then
 this company need to look at.
+
+----------------------------------------------
+Section - Part 1 - Beginners - Bond
+
+- LESSON 1 : Bond
+* Objectives
+1. What is a Bond?
+2. Who uses bonds?
+3. Bond risks
+4. Why is bond investing lucrative
+
+* What is a Bond?
+> It is a type of loan.
+> Company needing loan goes to bank.
+> Bank gives loan to company.
+> Bank converts loan into bond.
+> Bank sells bonds to investors.
+> Company pays to investors directly, 
+2 times in a year.
+> After bond end time it becomes matured.
+> On bond mature bond holder receive par value.
+
+* Who issues bond?
+> Corporation
+> Government - state, central bank
+Zero risk investment
+
+* Risk with bonds
+> Company or Government failure
+> Interest rate changes
+interest decrease - raises bond value
+interest increase - lowers bond value
+> Inflation
+If bond interest is 5% and inflation 1%, then
+money made through bond is 1%.
+
+* Corporations Liquidations/Failure
+> Order of equity distribution
+Bond holders, Preferred share holders,
+Common share holders
+
+* Why invest in bonds?
+> 2008 : stock market was high
+Bond 30 year : 5%
+Stocks average P/E : 27, return 3.7%
+> 2009 : stock market at low
+Bond 30 year : 2.83%
+Stocks average P/E : 15, return 6.7%
 
