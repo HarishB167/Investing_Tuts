@@ -113,3 +113,22 @@ Assets - AccountCash, IceCreamStand (10,000), IceCreamMachine, Supplies, Land
 Liabilities - Salary, IceCreamStand (loan-9,000), IceCreamMachine (loan), Land (loan)
 > Risk = Owner sell price of company - equity
 
+- LESSON 4 : Share
+* Objectives
+1. What is a share?
+2. What is Shares Outstanding?
+3. Comparing terminology between a whole business and 1 share
+4. Basic valuation techniques for 1 share
+5. Why is stock investing lucrative?
+
+* Share outstanding : no of shares a company is divided into.
+
+* One share
+Shares outstanding : 10000
+Market price : $10
+Earnings (EPS) : $2 (from income statement)
+Book Value : $0.70 (from balance sheet)
+> Price to Earning (P/E) ratio : Market price / EPS = 10/2 = 5
+For every 5 dollars spend, I should receive 1 dollars in profit 
+a year later.
+
