@@ -131,4 +131,42 @@ Book Value : $0.70 (from balance sheet)
 > Price to Earning (P/E) ratio : Market price / EPS = 10/2 = 5
 For every 5 dollars spend, I should receive 1 dollars in profit 
 a year later.
+> Price to Book Value (P/BV)
+For every x dollars paid for this company has $1 in book value. 
+
+- LESSON 5 : Warren Buffett Stock Basics
+* Objecives
+1. Warren Buffet's 4 rules for buying stocks
+2. A Warren Buffet valuation technique
+3. Warren Buffet's opinion on the market
+4. Patience and individuality
+
+* 4 rules
+> Stock must be stable and understandable.
+Company is perdictable.
+> Stock must have long term prospects.
+Company's product will be needed after 30-40 years
+> Stock must be managed by vigilant leaders.
+Having lot of debt etc.
+> Stock must be undervalued
+
+* Quick valuation tool
+> Earnings (potential returns)
+P/E - 25 : Return 4%
+P/E - 20 : Return 5%
+P/E - 15 : Return 6.6%
+P/E - 10 : Return 10%
+P/E - 5 : Return 20%
+> Select P/E <= 15
+> Book Value (margin of safety)
+Price to Book (P/BV)
+P/BV - 5 : Safety 20%
+P/BV - 3 : Safety 33%
+P/BV - 2 : Safety 50%
+P/BV - 1.5 : Safety 67%
+P/BV - 1 : Safety 100%
+P/BV - 0.7 : Safety 143%
+> Select P/BV <= 1.5
+> If P/E * P/BV <= 22.5, then
+this company need to look at.
 
