@@ -54,3 +54,35 @@ more ane more assets.
 
 * Benjamin Graham created value investing.
 
+- Value a Small Business
+* Objectives
+1. Describe a small business model
+2. How money flows through a small business
+3. A comparison of small and large business
+4. How do you value a small business
+
+* Business Has
+> Owner, business, customer
+
+* Small business model (Ice cream stand)
+> Revenue ($100,000) : money spend by customer
+> Cost of revenue ($70,000) : employee, material, rent etc.
+> Income before taxes = Revenue - Cost of revenue
+  = 100,000 - 70,000 = 30,000
+> Taxes = 10,000
+> Net Income / Earnings = Income before taxes - Taxes = 30,000 - 20,000 = 10,000
+> Earnings = net income per share
+> Earnings can go to Owner (Dividend) or
+Business (hopefully add to Equity)
+
+* Large business
+> Owners - Board of directors (represent shareholders)
+
+* Value a small business  
+> Company worth
+400,000 -> 5%
+200,000 -> 10%
+100,000 -> 20%
+> Warren buffett likes to find companies that trade
+for less than 15 times the earnings.
+
