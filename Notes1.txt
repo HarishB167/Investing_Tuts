@@ -272,4 +272,46 @@ C = annual coupon payment
 F = face value of bond
 t = number of years remaining until maturity
 
+----------------------------------------------
+Section - Part 1 - Beginners - Stock Market
 
+- LESSON 1 : What is Stock Market?
+* Objective
+1. What is a Stock Market?
+2. How does the stock market work?
+3. What is a limit and stop order?
+4. Bejamin Graham's Mr. Market.
+
+* Buyer's market : Sellers > Buyers
+* Seller's market : Buyers > Sellers
+
+* Trade happening at a price, doesn't 
+determine stock's value.
+
+* Stop order 
+> Order triggers at specified price. 1 or
+more share would have been traded.
+> For larger orders, remaining shares can
+get executed at different price, if not
+completed in first order.
+
+* Limit order
+> Stock can't be sold or bought at
+more or less that than specified price
+respectively.
+
+* Reasone of trades
+> Seller :
+This stock stinks I can make more
+money somewhere else.
+I need money for my car.
+> Buyer :
+People only buy when they think
+this company is going to make me
+some money.
+
+* Mr. Market
+> Never follow Mr. Market's changing emotions.
+> Instead, remain calmly and competent, and take
+advantage of the opportunities Mr. Market presents
+> Mr. Market is your servent, not your guide.
