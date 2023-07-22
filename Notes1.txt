@@ -226,18 +226,50 @@ Stocks average P/E : 15, return 6.7%
 4. What is Market Value for a Bond
 
 * Par Value
-- Value at which bond was issued.
-- Value which will be received at maturity
+> Value at which bond was issued.
+> Value which will be received at maturity
 
 * Coupon
-- Bi-anually interest payment
+> Bi-anually interest payment
 
 * Term
-- Time for maturity of bond
+> Time for maturity of bond
 
 * Market Value for a Bond
-- If interest rate increases
+> If interest rate increases
 then value of bond is decreased and with time value increases.
-- If interest rate decreases
+> If interest rate decreases
 then value of bond is increased and with time value decreases.
+
+- LESSON 3 : Value a Bond and yield to maturity
+* Objective
+1. Simple Interest
+2. Compound Interest
+3. Current Yield
+4. Yield to Maturity
+
+* Simple Interest
+> Interest received : Summing up all coupons
+> Coupon yield = 1 year coupon payment / Par Value
+It is set when a bond is issued. It is the
+annual coupon divided by the par value.
+> Current yield = 1 year coupon payment / Price on market
+It is annual coupon divied by the price (on stock market of bond).
+It does not account for money lost/gained at maturity, i.e.,
+Par value - Price on market.
+
+* Compound Interest
+> Compount interest : when coupon payment is re-invested at coupon yield.
+> Yield to maturity :
+It includes - compound interest, par gain/loss.
+It accounts for money lost/gained at maturity, i.e.,
+Par value - Price on market.
+This changes more than current yield, due to price change of bond.
+> Yield to maturity equation :
+YTM = (FaceValue/CurrentPrice)^(1/2) - 1
+BondValue = (C/2)[{1-(1+YTM/2)^(-2t)}/(YTM/2)] + F/[{1+(YTM/2)}^2t]
+C = annual coupon payment
+F = face value of bond
+t = number of years remaining until maturity
+
 
