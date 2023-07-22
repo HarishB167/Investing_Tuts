@@ -366,5 +366,80 @@ During lows -> decrease interest rates
 > Relatively compare a stock's estimated
 return compared to a bond's return.
 
+----------------------------------------------
+Section - Part 1 - Beginners - Economic Machine
+https://www.youtube.com/watch?v=PHe0bXAIuk0
 
+- Economy 
+* Works in simple, mechanical way
+* It's made up of few simple parts and 
+lot of simple transactions repeated many times.
+* These transactions are driven by human nature.
+* These transactions create 3 main forces that drive the economy.
+1. Productivity growth
+2. Short term debt cycle
+3. Long term debt cycle
+
+- Transactions
+* Economy is simply the sum of transactions.
+* Each transaction consists of :
+buyer, seller, exchanging money or credit with
+goods, services, financial assets.
+* Total spending = money spent + credit spent
+* Total spending drives the economy
+* Price = total spending / total quantity
+
+- Market
+* Consists of all the buyers and sellers.
+* Making transactions for the same thing.
+* E.g. : wheat, car, stock market 
+* Economy consists of all of the transaction in
+its all of the markets.
+* To understand economy -> total spending / total quantity
+
+* Biggest buyer / seller is government
+* Government constist of : central government, 
+central bank.
+* Central government : collects taxes and spends money
+* Central bank : controls amount of money and credit in
+the economy. By changing interest rates and printing money.
+
+- Credit
+* Central bank, important player, in flow of credit.
+* Economy's important part and least understood.
+* It's biggest and most volatile part.
+* Similar to buyers and sellers transactions, lender and borrower
+* Lenders : Make their money into more money
+* Borrowers : Want to buy they can't afford.
+* Debt is created with credit
+* Debt is asset to lender, and
+liability to borrower
+* One person's spending is other person's income.
+
+- Credit worth borrower
+* Ability to repay
+* Collateral if he can't
+
+- Economic growth
+* 3-forces : Productivity, Debt swings 7-8 years,
+75-100 years
+* Productivity matters in long run
+> Doesn't fluctuate much
+> Not a big driver economic swings
+* Debt 
+> Credit matters in short run 
+> When acquiring : consume more than we produce
+> When repaying : consume less than we produce
+* Debt swings
+> Occur in 2 big cycles :
+5-8 years and 75-100 years
+> Most people don't see them as cycles, because
+they see very zoomed view, day by day, week by week
+
+* Economy
+* Without credit : to increase spending is to produce more
+* With credit : to increase spending can borrow, taken spending
+power from future self.
+
+Completed till : 07:36
 
