@@ -341,3 +341,30 @@ but in the long term it acts like a weighing
 machine.
 > Short term : anyone can price the stock
 > Long term : The value becomes absolute
+
+- LESSON 3 : FED
+* Objectives
+1. What is the FED?
+2. What is the mission of the FED?
+3. How does the FED change market conditions
+with interest rates?
+4. What does the FED tell us about Mr. Market?
+
+* What the FED does?
+> Maximize employment and stabilize prices
+> Supervise and regulate banks.
+> Maintain the stability of the Financial system.
+> Service debts for the US Federal Government.
+
+* How FED stabilize financial system
+> FED understands fear and greed cycles.
+> Controls by adjusting interest rates
+During market high -> increases interest rates
+During lows -> decrease interest rates
+
+* Finding high/low interest rates
+> Relatively compare a stock's estimated
+return compared to a bond's return.
+
+
+
