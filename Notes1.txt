@@ -218,3 +218,26 @@ Stocks average P/E : 27, return 3.7%
 Bond 30 year : 2.83%
 Stocks average P/E : 15, return 6.7%
 
+- LESSON 2 : Bond Components
+* Objectives
+1. What is a Par Value
+2. What is a Coupon
+3. What is the Term
+4. What is Market Value for a Bond
+
+* Par Value
+- Value at which bond was issued.
+- Value which will be received at maturity
+
+* Coupon
+- Bi-anually interest payment
+
+* Term
+- Time for maturity of bond
+
+* Market Value for a Bond
+- If interest rate increases
+then value of bond is decreased and with time value increases.
+- If interest rate decreases
+then value of bond is increased and with time value decreases.
+
