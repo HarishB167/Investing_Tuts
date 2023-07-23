@@ -523,14 +523,32 @@ due to it's failing loans.
 > Interest can't be lowered, as they are already low.
 > Economy becomes not creditworthy
 > Debt-burden reducing :
-1. Cut spending : reduces income and debt remains same and deflation.
+1. Cut spending (defaltionary) : reduces income and debt remains same and deflation.
 2. Debts reduced by restructuring (lenders don't want to debt 
-completely disappear), defaulting
-3. Redistribute wealth
-4. Central bank prints new money
+completely disappear) (causes income and assets value to decrease
+faster), defaulting (defaltionary)
+3. Redistribute wealth (defaltionary)
+4. Central bank prints new money (is inflationary)
+buys financial assets and govt. bonds.
+* Deflationary ways need to balance inflationary way
+* In Beautiful-deleveraging :
+Debts decline relative to income
+Real economic growth is positive
+Inflation isn't a problem
+* How printing money can't cause inflation :
+If it offsets/replaces falling credit.
+* Reflation :
+7-10 years (lost decade)
+Debt-burdens to fall and economic activity to get back normal
 
 * How debt restructuring causes income and asset value decrease?
+* How redistributing wealth is deflationary?
 
+- Rules
+* Don't have debt rise faster than income.
+* Don't have income rise faster than productivity, because
+you eventually become uncompetitive.
+* Do all that you can to raise your productivity.
 
-Completed till : 22:00
+Completed till : completed : re-editing from long-term-debt cycle left
 
