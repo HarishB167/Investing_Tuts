@@ -398,14 +398,14 @@ its all of the markets.
 * To understand economy -> total spending / total quantity
 
 * Biggest buyer / seller is government
-* Government constist of : central government, 
+* Government consist of : central government, 
 central bank.
 * Central government : collects taxes and spends money
 * Central bank : controls amount of money and credit in
 the economy. By changing interest rates and printing money.
+> Important player in flow of credit.
 
 - Credit
-* Central bank, important player, in flow of credit.
 * Economy's important part and least understood.
 * It's biggest and most volatile part.
 * Similar to buyers and sellers transactions, lender and borrower
@@ -414,19 +414,22 @@ the economy. By changing interest rates and printing money.
 * Debt is created with credit
 * Debt is asset to lender, and
 liability to borrower
-* One person's spending is other person's income.
+* Spending drives economy, because one person's spending
+is other person's income.
 
 - Credit worth borrower
 * Ability to repay
 * Collateral if he can't
 
-- Economic growth
+- Economic growth Cycles
 * 3-forces : Productivity, Debt swings 7-8 years,
 75-100 years
 * Productivity matters in long run
 > Doesn't fluctuate much
 > Not a big driver economic swings
+> Doesn't cause cycles/swings
 * Debt 
+> Cycles/Swings are due to Borrowing / Credit
 > Credit matters in short run 
 > When acquiring : consume more than we produce
 > When repaying : consume less than we produce
@@ -436,10 +439,98 @@ liability to borrower
 > Most people don't see them as cycles, because
 they see very zoomed view, day by day, week by week
 
-* Economy
-* Without credit : to increase spending is to produce more
-* With credit : to increase spending can borrow, taken spending
-power from future self.
+- Money vs Credit
+* Money : used to settle transaction immediately
+* Credit : promise to pay in future. Together
+borrower and lender created liability and asset, 
+out of thin air. Payment done after makes 
+asset and liability disappear, and makes
+transaction settled.
+* Most of money in system is credit.
 
-Completed till : 07:36
+- Increase spending
+* Without credit : only through more productivity
+* With credit : also with borrowing, spending power
+from future self.
+> Allows incomes to rise faster than productivity
+over short time.
+> It's bad when used for over-consumption, which
+can't be paid back.
+
+- Short term debt cycle
+* 7-8 years
+* Person earning 100,000 and creditworthy of 10,000,
+can spend 110,000.
+* One person's spending is other person's income.
+* So, second person is earning 110,000 and creditworthy
+of 11,000, can spend 121,000.
+* This pattern goes to 3rd,4th till nth person.
+* Now, borrowing creates cycles.
+* So, cycles needs to come down.
+* Cycle's 1st phase (Expansion) : 
+> Credit causes increase in spending.
+> Increase in economic activity causes expansion.
+> Inflation : When amount of spending and incomes grow faster than 
+production of goods, then prices increases.
+> Central Bank doesn't like too much inflation.
+> It raises interest rates.
+> Now, fewer people can afford borrowing.
+> Also cost of existing debts rises
+* Cycle's 2nd phase (Recession) : 
+> People have less money to spend.
+> Incomes drop : Since one person's spending is other person's income.
+> Deflation : People spend less
+> Economic activity decreases, and recession appears.
+> When inflation is not problem and recession problem becomes big,
+then central bank lowers interest rates.
+> Debt repayment are reduced
+* Cycle's 1st phase (Expansion) : 
+> Borrowing becomes more affordable.
+> Expansion appears.
+* Spending is constrained : by willingness of lenders and
+borrowers to provide and receive credit.
+* Bottom and top of cycle finish with more growth and debt than 
+previous cycle.
+* More debt : because people have inclination to borrow and 
+spend more instead of paying back debt.
+
+- Long term debt cycles
+* Due to more debt in short term debt cycle.
+* Debts rist faster than incomes.
+* Lenders give more credit :
+> Because everybody thinks things are going great.
+> People focus on current events : rising incomes,
+asset's value and stock market increasing.
+* Debt-burden : Debt/income
+* Debt-burden slowly increases - creating larger
+debt repayments
+* Debt repayment starts growing faster than incomes.
+* People are forced to cut spending.
+* Incomes of people also go down. Causing less 
+creditworthy.
+* Causing borrowing to go down.
+* Cycle reverses itself.
+* Long term debt peak appears.
+* Cycle's 2nd phase (Deleveraging) :
+> People cut spending
+> Income falls
+> Credit disapppears
+> Asset prices drop : for debt repayment, all people try to sell
+> Banks get squeezed : bank runs for fear of bank being failed
+due to it's failing loans.
+> Stock markets crashes
+> Social tension rises
+> Interest can't be lowered, as they are already low.
+> Economy becomes not creditworthy
+> Debt-burden reducing :
+1. Cut spending : reduces income and debt remains same and deflation.
+2. Debts reduced by restructuring (lenders don't want to debt 
+completely disappear), defaulting
+3. Redistribute wealth
+4. Central bank prints new money
+
+* How debt restructuring causes income and asset value decrease?
+
+
+Completed till : 22:00
 
